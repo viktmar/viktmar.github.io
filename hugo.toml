@@ -11,29 +11,24 @@ pygmentsCodefencesGuessSyntax = true
 #googleAnalytics = "XXX"
 
 [[menu.main]]
-    name = "About"
+    name = "Blog"
     url = ""
     weight = 1
 
 [[menu.main]]
-    name = "Posts"
-    url = "posts/"
-    weight = 2
-
-[[menu.main]]
     name = "Talks"
     url = "talks/"
-    weight = 3
+    weight = 2
 
 [[menu.main]]
     name = "Publications"
     url = "publications/"
-    weight = 4
+    weight = 3
 
 [[menu.main]]
     name = "CV"
     url = "cv/"
-    weight = 5
+    weight = 4
 
 [Params]
 #  homeTitle = "Beautiful Hugo Theme" # Set a different text for the header on the home page

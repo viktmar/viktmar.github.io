@@ -14,4 +14,3 @@ tags: []
 | 03.2023 | Talks about parameter estimation and symbolic regression in the preparatory workshop at Computational Science Summer School at KMUTT, Bangkok, Thailand           |
 | 03.2024 | Talks about graph theory and symbolic regression in the preparatory workshop at Computational Science Summer School at KMUTNB, Bangkok, Thailand                  |
 | 06.2024 | Symposium on Thermophysical Properties at NIST Boulder, CO, USA                                                                                                   |
-
