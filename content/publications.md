@@ -16,6 +16,7 @@ tags: []
     volume="44"
     issue="7"
     doi="https://doi.org/10.1007/s10765-023-03197-z"
+    bib="/publications/air_paper.bib"
 >}}
 
 {{< publication
@@ -24,5 +25,6 @@ tags: []
     journal="ArXiv Preprint"
     year="2023"
     doi="https://doi.org/10.48550/arXiv.2309.02805"
+    bib="/publications/tisr_paper.bib"
 >}}
 
