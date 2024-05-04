@@ -8,7 +8,7 @@ image: ""
 tags: []
 ---
 
-|         |                                                                                                                                                                   |
+| | |
 |---------|--------------------------------------------------------------------------------                                                                                   |
 | 09.2022 | Poster on "Effiziente Kalibrierung eines Biegeschwinger-Dichtemessgerätes basierend auf optimaler Versuchsplanung" at the Thermodynamik Kolloquium at TU Chemnitz |
 | 03.2023 | Talks about parameter estimation and symbolic regression in the preparatory workshop at Computational Science Summer School at KMUTT, Bangkok, Thailand           |

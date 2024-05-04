@@ -46,6 +46,7 @@ googleAnalytics = "G-8BP7CEZFYW"
   socialShare = false
   delayDisqus = true
   showRelatedPosts = true
+  hideAuthor=true
 
 [Author]
   # Set only your "username" for default hosts and full URLs otherwise (e.g., "https://MyGitLab.org/username")
