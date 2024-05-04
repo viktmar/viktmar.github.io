@@ -1,0 +1,29 @@
+{{ $title := .Get "title" }}
+{{ $authors := .Get "authors" }}
+{{ $journal := .Get "journal" }}
+{{ $year := .Get "year" }}
+{{ $volume := .Get "volume" }}
+{{ $issue := .Get "issue" }}
+{{ $pages := .Get "pages" }}
+{{ $doi := .Get "doi" }}
+{{ $bib := .Get "bib" }}
+
+<div class="publication">
+    <div class="publication-title">
+        <span style="font-size: 120%; font-weight: bold;">{{ $title }}</span>
+    </div>
+    <div class="publication-authors">{{ $authors }}</div>
+    <div class="publication-details" style="color: #666;">
+        {{ with $journal }}<span class="publication-journal">{{ . }}</span>{{ end }}
+        {{ with $volume }}<span class="publication-volume">Volume: {{ . }}</span>{{ end }}
+        {{ with $issue }}<span class="publication-issue">Issue: {{ . }}</span>{{ end }}
+        {{ with $pages }}<span class="publication-pages">Pages: {{ . }}</span>{{ end }}
+        {{ with $year }}<span class="publication-year">Year: {{ . }}</span>{{ end }}
+    </div>
+    {{ if $doi }}
+    <a href="{{ $doi }}" class="publication-button publication-doi-button">DOI</a>
+    {{ end }}
+    {{ if $bib }}
+    <a href="{{ $bib }}" class="publication-button publication-bib-button">BIB</a>
+    {{ end }}
+</div>

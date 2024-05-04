@@ -1,0 +1,49 @@
+
+/* for the table without header */
+
+table tr th:empty {
+  display: none;
+}
+
+/* for the publications shortcode  */
+
+.publication {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.publication-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.publication-authors {
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.publication-details {
+    font-size: 14px;
+}
+
+.publication-details span {
+    margin-right: 10px;
+}
+
+.publication-button {
+    display: inline-block;
+    padding: 5px 10px;
+    background-color: #007bff;
+    color: #fff;
+    border-radius: 5px;
+    text-decoration: none;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.publication-button:hover {
+    background-color: #0056b3;
+}

@@ -17,10 +17,13 @@ tags: []
 ### Research Associate  
 **Universität Heidelberg**  
 *03/22 - Present*  
+{{< columns >}}
 - Symbolic Regression
 - Evolutionary algorithms
+{{< column >}}
 - Thermodynamic property modelling
 - Optimal experimental design
+{{< endcolumns >}}
 
 ### Master Thesis  
 **Process Automation Solutions, Ludwigshafen**  
