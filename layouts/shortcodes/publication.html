@@ -1,3 +1,4 @@
+
 {{ $title := .Get "title" }}
 {{ $authors := .Get "authors" }}
 {{ $journal := .Get "journal" }}
@@ -7,12 +8,13 @@
 {{ $pages := .Get "pages" }}
 {{ $doi := .Get "doi" }}
 {{ $bib := .Get "bib" }}
+{{ $abstract := .Get "abstract" }}
 
 <div class="publication">
     <div class="publication-title">
         <span style="font-size: 120%; font-weight: bold;">{{ $title }}</span>
     </div>
-    <div class="publication-authors">{{ $authors }}</div>
+    <div class="publication-authors">Authors: {{ $authors }}</div>
     <div class="publication-details" style="color: #666;">
         {{ with $journal }}<span class="publication-journal">{{ . }}</span>{{ end }}
         {{ with $volume }}<span class="publication-volume">Volume: {{ . }}</span>{{ end }}
@@ -20,10 +22,22 @@
         {{ with $pages }}<span class="publication-pages">Pages: {{ . }}</span>{{ end }}
         {{ with $year }}<span class="publication-year">Year: {{ . }}</span>{{ end }}
     </div>
-    {{ if $doi }}
-    <a href="{{ $doi }}" class="publication-button publication-doi-button">DOI</a>
-    {{ end }}
-    {{ if $bib }}
-    <a href="{{ $bib }}" class="publication-button publication-bib-button">BIB</a>
+    <div class="publication-buttons">
+        {{ if $doi }}
+        <a href="{{ $doi }}" class="publication-button publication-doi-button">DOI</a>
+        {{ end }}
+        {{ if $bib }}
+        <a href="{{ $bib }}" class="publication-button publication-bib-button">BIB</a>
+        {{ end }}
+        {{ if $abstract }}
+        <button class="collapsible">Abstract ...</button>
+        {{ end }}
+    </div>
+    {{ if $abstract }}
+    <div class="content">
+        <p>{{ $abstract | safeHTML }}</p>
+    </div>
     {{ end }}
 </div>
+
+

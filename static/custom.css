@@ -34,17 +34,58 @@ table tr th:empty {
 }
 
 .publication-button {
-    font-size: 14px;
-    display: inline-block;
-    padding: 3px 6px;
     background-color: #404040;
-    color: #fff;
     border-radius: 5px;
-    text-decoration: none;
-    margin-top: 3px;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
     margin-right: 3px;
+    margin-top: 3px;
+    padding: 3px 6px;
+    text-decoration: none;
 }
 
 .publication-button:hover {
     background-color: #0056b3;
 }
+
+/* for abstract button  */
+
+.collapsible {
+    border-color: #404040;
+    background-color: #404040;
+    border-radius: 5px;
+    color: #fff;
+    display: inline-block;
+    font-size: 14px;
+    margin-right: 3px;
+    margin-top: 3px;
+    padding: 3px 6px;
+    text-align: left;
+}
+
+.active, .collapsible:hover {
+    background-color: #0056b3;
+}
+
+.content {
+    padding: 0 18px;
+    border-radius: 5px;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+    background-color: #404040;
+}
+
+.collapsible:after {
+    content: '+'; /* Unicode character for "plus" sign (+) */
+    font-size: 14px;
+    color: white;
+    float: right;
+    margin-left: 5px;
+}
+
+.active:after {
+    content: "-"; /* Unicode character for "minus" sign (-) */
+}
+
