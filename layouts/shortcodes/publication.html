@@ -24,10 +24,10 @@
     </div>
     <div class="publication-buttons">
         {{ if $doi }}
-        <a href="{{ $doi }}" class="publication-button publication-doi-button">DOI</a>
+        <a href="{{ $doi }}" target="_blank" class="publication-button publication-doi-button">DOI</a>
         {{ end }}
         {{ if $bib }}
-        <a href="{{ $bib }}" class="publication-button publication-bib-button">BIB</a>
+        <a href="{{ $bib }}" target="_blank" class="publication-button publication-bib-button">BIB</a>
         {{ end }}
         {{ if $abstract }}
         <button class="collapsible">Abstract ...</button>
