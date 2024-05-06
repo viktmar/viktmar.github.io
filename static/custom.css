@@ -74,7 +74,13 @@ table tr th:empty {
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
-    background-color: #404040;
+    background-color: #F5F5F5;
+}
+
+@media (prefers-color-scheme: dark) {
+  .content {
+    background: #505050;
+  }
 }
 
 .collapsible:after {
