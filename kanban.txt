@@ -1,6 +1,27 @@
 
+
+- remove author string
+- buy me a coffee?
+- make CV nice and full
+
+
+
+# blog post
+
 - [ ] arm freezing punishment heat transfer
 - [ ] optimal heat transfer tubular heat exchanger
 - [ ] maglev
 - [ ] differential evolution
 - [ ] 
+
+
+# optimizations
+
+- [ ] 4-5 rows in abstract collapsible when open
+- [ ] padding in top bottom in collapsible
+- [ ] download icon in bib button -> or not download
+- [ ] more side padding for navigation bar
+- [ ] hover blue of name and buttons are not same
+- [ ] tab-title for index-page
+- [ ] maybe icons here and there. i.e. in cv for education and stuff
+- [ ] maybe own icon for favicon
