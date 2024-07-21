@@ -22,25 +22,29 @@ tags: []
 - Thermodynamic property modelling
 - Optimal experimental design
 - Reinforcement learning
-- Developing Thermodynamics-informed Symbolic Regression [TiSR](https://github.com/scoop-group/TiSR)
+- Developing Thermodynamics-informed Symbolic Regression ([TiSR](https://github.com/scoop-group/TiSR))
 
 ### Master Thesis  
 **Process Automation Solutions, Ludwigshafen**  
 *05/21 - 11/21*  
 - Developed a simulation environment for the virtual commissioning of an OPC UA gateway
 
-### Bachelor Thesis and Working Student  
+### Bachelor Thesis & Working Student  
 **IAV GmbH, Stollberg**  
 *09/18 - 01/21*  
-- Modelled and optimized performance of vehicle components and systems
-- Presented work to customers in English and German
+- Modelled & optimized performance of vehicle components & systems
+- Presented work to customers in English & German
 - Modified a Matlab script to do the same in ~5 min instead of ~4 weeks
 
-### Internship  
+### Internship
 **Daimler AG, Sindelfingen**  
 *01/17 - 07/17*  
-- Ensured thermal safety employing vehicle tests and simulations
-- Analyzed and assisted validating vehicle test data
+- Ensured thermal safety employing vehicle tests & simulations
+- Analyzed & assisted validating vehicle test data
+
+### Other
+- Tutoring of pupils in mathematics and physics in groups of up to 7 (2 years)
+- Sharpening knives at the farmers' market (7 years) 
 
 ## Education
 ---
@@ -58,7 +62,7 @@ tags: []
 *09/15 - 04/19*  
 - Graduated with 2.1
 - Focus on fluid dynamics, thermodynamics, & numerical analysis
-- Pre-thesis: Multi-physics simulation and control of a Maglev (magnetic levitation train)
+- Pre-thesis: Multi-physics simulation & control of a Maglev (magnetic levitation train)
 - Thesis: Thermal management of hybrid vehicle operation strategies
 
 ## Skills

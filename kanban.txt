@@ -4,6 +4,7 @@
 - make CV nice and full
 
 - [ ] update the arxiv publications, when published
+- [ ] add "Abroad" section in cv? or only in "Talks"?
 
 
 # blog post
