@@ -3,6 +3,7 @@
 - buy me a coffee?
 - make CV nice and full
 
+- [ ] update the arxiv publications, when published
 
 
 # blog post

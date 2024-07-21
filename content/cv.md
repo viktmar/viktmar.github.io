@@ -17,13 +17,12 @@ tags: []
 ### Research Associate  
 **Universität Heidelberg**  
 *03/22 - Present*  
-{{< columns >}}
 - Symbolic Regression
 - Evolutionary algorithms
-{{< column >}}
 - Thermodynamic property modelling
 - Optimal experimental design
-{{< endcolumns >}}
+- Reinforcement learning
+- Developing Thermodynamics-informed Symbolic Regression [TiSR](https://github.com/scoop-group/TiSR)
 
 ### Master Thesis  
 **Process Automation Solutions, Ludwigshafen**  
@@ -49,30 +48,32 @@ tags: []
 ### M.Sc. Mechanical Engineering  
 **Technische Universität Chemnitz**  
 *04/19 - 02/22*  
-- Graduated with 1.7 GPA
-- Post-processing of molecular dynamics simulations
-- Simulation environment for the virtual commissioning of an OPC UA gateway
+- Graduated with 1.7
+- Focus on automation, optimization, fluids dynamics & thermodynamics
+- Pre-thesis: Post-processing of molecular dynamics simulations
+- Thesis: Simulation environment for the virtual commissioning of an OPC UA gateway
 
 ### B.Sc. Mechanical Engineering  
 **Hochschule Mannheim**  
 *09/15 - 04/19*  
-- Graduated with 2.1 GPA
-- Multi-physics simulation and control of a Maglev (magnetic levitation train)
-- Thermal management of hybrid vehicle operation strategies
+- Graduated with 2.1
+- Focus on fluid dynamics, thermodynamics, & numerical analysis
+- Pre-thesis: Multi-physics simulation and control of a Maglev (magnetic levitation train)
+- Thesis: Thermal management of hybrid vehicle operation strategies
 
 ## Skills
 ---
 
 - Programming Languages: Julia, Python, Matlab
-- Tools: Neovim
-- Data: Data visualization, Data analysis
+- Neovim, git
+- Data analysis & visualization
+- Office automation
 
 ## Languages
 ---
 
-- German (Native speaker)
+- German (native speaker)
 - English (C1)
-- Bulgarian (Raised bilingually)
-- Spanish (Studying currently)
+- Bulgarian (raised bilingually)
 
 
