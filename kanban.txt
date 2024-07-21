@@ -1,6 +1,5 @@
 
 
-- remove author string
 - buy me a coffee?
 - make CV nice and full
 
@@ -25,3 +24,8 @@
 - [ ] tab-title for index-page
 - [ ] maybe icons here and there. i.e. in cv for education and stuff
 - [ ] maybe own icon for favicon
+
+
+# archive
+
+- [x] 2024-07-21-12hremove author string

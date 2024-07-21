@@ -8,6 +8,31 @@ image: ""
 tags: []
 ---
 
+
+# 2024
+
+{{< publication
+    title="Shape constraints in symbolic regression using penalized least squares"
+    authors="V. Martinek, J. Reuter, O. Frotscher, S. Mostaghim, M. Richter, & R. Herzog"
+    journal="ArXiv Preprint"
+    year="2024"
+    doi="https://doi.org/10.48550/arXiv.2405.20800"
+    bib="/publications/shape_constraints.bib"
+    abstract="We study the addition of shape constraints and their consideration during the parameter estimation step of symbolic regression (SR). Shape constraints serve as a means to introduce prior knowledge about the shape of the otherwise unknown model function into SR. Unlike previous works that have explored shape constraints in SR, we propose minimizing shape constraint violations during parameter estimation using gradient-based numerical optimization. We test three algorithm variants to evaluate their performance in identifying three symbolic expressions from a synthetically generated data set. This paper examines two benchmark scenarios: one with varying noise levels and another with reduced amounts of training data. The results indicate that incorporating shape constraints into the expression search is particularly beneficial when data is scarce. Compared to using shape constraints only in the selection process, our approach of minimizing violations during parameter estimation shows a statistically significant benefit in some of our test cases, without being significantly worse in any instance."
+>}}
+
+{{< publication
+    title="Unit-aware genetic programming for the development of empirical equations"
+    authors="J. Reuter, V. Martinek, R. Herzog, & S. Mostaghim"
+    journal="ArXiv Preprint"
+    year="2024"
+    doi="https://doi.org/10.48550/arXiv.2405.18896"
+    bib="/publications/unit_aware.bib"
+    abstract="When developing empirical equations, domain experts require these to be accurate and adhere to physical laws. Often, constants with unknown units need to be discovered alongside the equations. Traditional unit-aware genetic programming (GP) approaches cannot be used when unknown constants with undetermined units are included. This paper presents a method for dimensional analysis that propagates unknown units as ''jokers'' and returns the magnitude of unit violations. We propose three methods, namely evolutive culling, a repair mechanism, and a multi-objective approach, to integrate the dimensional analysis in the GP algorithm. Experiments on datasets with ground truth demonstrate comparable performance of evolutive culling and the multi-objective approach to a baseline without dimensional analysis. Extensive analysis of the results on datasets without ground truth reveals that the unit-aware algorithms make only low sacrifices in accuracy, while producing unit-adherent solutions. Overall, we presented a promising novel approach for developing unit-adherent empirical equations."
+>}}
+
+# 2023
+
 {{< publication
     title="Proof of concept for fast equation of state development using an integrated experimental-computational approach"
     authors="O. Frotscher, V. Martinek, R. Fingerhut, X. Yang, J. Vrabec, R. Herzog, & M. Richter"
