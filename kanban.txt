@@ -6,6 +6,14 @@
 - [ ] update the arxiv publications, when published
 - [ ] add "Abroad" section in cv? or only in "Talks"?
 
+- [ ] missing in CV section
+    - abroad stays (Australia, Thailand?, Boulder?)
+    - Pizza delivery
+    - Hiwi
+    - Friatec
+    - teaching (python course & reinforcement learning & Bangkok)
+- [ ] update and add more detail in "Talks"
+
 
 # blog post
 
@@ -31,3 +39,4 @@
 # archive
 
 - [x] 2024-07-21-12hremove author string
+
