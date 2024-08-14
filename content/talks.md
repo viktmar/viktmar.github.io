@@ -8,9 +8,36 @@ image: ""
 tags: []
 ---
 
-| | |
-|---------|--------------------------------------------------------------------------------                                                                                   |
-| 09.2022 | Poster on "Effiziente Kalibrierung eines Biegeschwinger-Dichtemessgerätes basierend auf optimaler Versuchsplanung" at the Thermodynamik Kolloquium at TU Chemnitz |
-| 03.2023 | Talks about parameter estimation and symbolic regression in the preparatory workshop at Computational Science Summer School at KMUTT, Bangkok, Thailand           |
-| 03.2024 | Talks about graph theory and symbolic regression in the preparatory workshop at Computational Science Summer School at KMUTNB, Bangkok, Thailand                  |
-| 06.2024 | Symposium on Thermophysical Properties at NIST Boulder, CO, USA                                                                                                   |
+# 2024
+
+{{< talk
+    event="Thermodynamik Kolloquium"
+    institution="University of Stuttgart"
+    date="September 2024"
+    talks="Poster: Thermodynamics-informed Symbolic Regression → TiSR"
+>}}
+
+{{< talk
+    event="European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)"
+    institution="Vilnius, Lithuania"
+    date="September 2024"
+    talks="Poster: Shape Constraints in Symbolic Regression using Penalized Least Squares"
+>}}
+
+{{< talk
+    event="Twenty-Second Symposium on Thermophysical Properties and Eighteenth International Conference on the Properties of Water and Steam"
+    institution="NIST, Boulder, CO, USA"
+    date="July 2024"
+    talks="Talk: Thermodynamics-informed Symbolic Regression → TiSR || Talk: Entropy Scaling of Viscosity IV: Application to 124 Industrially Important Fluids"
+>}}
+
+# 2022
+
+{{< talk
+    event="Thermodynamik Kolloquium"
+    institution="TU Chemnitz"
+    date="September 2022"
+    talks="Poster: Effiziente Kalibrierung eines Biegeschwinger-Dichtemessgerätes basierend auf optimaler Versuchsplanung"
+>}}
+
+

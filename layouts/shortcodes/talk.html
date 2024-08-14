@@ -1,0 +1,19 @@
+{{ $event := .Get "event" }}
+{{ $institution := .Get "institution" }}
+{{ $date := .Get "date" }}
+{{ $talks := .Get "talks" }}
+
+<div class="talk">
+    <div class="talk-event talk-title">
+        {{ $event }}
+    </div>
+    <div class="talk-details">
+        <span class="talk-institution">{{ $institution }}</span>
+        {{ with $date }}<span class="talk-date">{{ . }}</span>{{ end }}
+    </div>
+    <div class="talk-names">
+        {{ range (split $talks " || ") }}
+        <div class="talk-name">{{ . }}</div>
+        {{ end }}
+    </div>
+</div>

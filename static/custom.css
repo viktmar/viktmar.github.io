@@ -95,3 +95,32 @@ table tr th:empty {
     content: "-"; /* Unicode character for "minus" sign (-) */
 }
 
+
+/* for the talks shortcode */
+
+.talk {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+.talk-title {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+.talk-details {
+    font-size: 14px;
+    color: #666;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    font-style: italic;
+}
+
+.talk-name {
+    font-weight: bold;
+    margin-top: 10px;
+}
