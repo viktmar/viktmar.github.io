@@ -8,8 +8,8 @@ image: ""
 tags: []
 ---
 
-**Email:** v.martinek@mail.de
-**Location:** Mannheim, Germany
+- **Email:** v.martinek@mail.de
+- **Location:** Mannheim, Germany
 
 ## Experience
 ---
