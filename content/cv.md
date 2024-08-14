@@ -68,6 +68,7 @@ tags: []
 ## Teaching
 ---
 
+- Mathematical Machine Learning Seminar - Reinforcement Learning at Heidelberg University (summer semester 2024)
 - Preparatory workshop week at the Computational Science Summer School at KMUTNB, Bangkok, Thailand (03/2024)
 - Preparatory workshop week at the Computational Science Summer School at KMUTT, Bangkok, Thailand (03/2023)
 - Python introductory course at Heidelberg University (05/2022)

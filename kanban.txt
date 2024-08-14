@@ -1,28 +1,14 @@
 
-
-- buy me a coffee?
-- make CV nice and full
-
+- [ ] buy me a coffee?
 - [ ] update the arxiv publications, when published
-- [ ] add "Abroad" section in cv? or only in "Talks"?
 
-- [ ] missing in CV section
-    - abroad stays (Australia, Thailand?, Boulder?)
-    - Pizza delivery
-    - Hiwi
-    - Friatec
-    - teaching (python course & reinforcement learning & Bangkok)
-- [ ] update and add more detail in "Talks"
-
-
-# blog post
+# blog posts
 
 - [ ] arm freezing punishment heat transfer
 - [ ] optimal heat transfer tubular heat exchanger
 - [ ] maglev
 - [ ] differential evolution
-- [ ] 
-
+- [ ] rounded corners powerpoint vba
 
 # optimizations
 
@@ -39,4 +25,7 @@
 # archive
 
 - [x] 2024-07-21-12hremove author string
-
+- [x] 2024-08-14-17hmake CV nice and full
+- [x] 2024-08-14-17hadd "Abroad" section in cv? or only in "Talks"?
+- [x] 2024-08-14-17hupdate and add more detail in "Talks"
+- [x] 2024-08-14-17hteaching reinforcement learning
