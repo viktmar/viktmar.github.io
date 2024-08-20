@@ -28,7 +28,7 @@ tags: []
     event="Twenty-Second Symposium on Thermophysical Properties and Eighteenth International Conference on the Properties of Water and Steam"
     institution="NIST, Boulder, CO, USA"
     date="July 2024"
-    talks="Talk: Thermodynamics-informed Symbolic Regression → TiSR || Talk: Entropy Scaling of Viscosity IV: Application to 124 Industrially Important Fluids"
+    talks="Talk: Thermodynamics-informed Symbolic Regression → TiSR || Talk: Entropy Scaling of Viscosity IV: Application to 124 Industrially Important Fluids || Poster: Efficient Calibration of a Vibrating Tube Densimeter based on Optimal Experimental Design"
 >}}
 
 # 2022
