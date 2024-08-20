@@ -1,4 +1,5 @@
 
+- [ ] capitalization
 - [ ] buy me a coffee?
 - [ ] update the arxiv publications, when published
 
