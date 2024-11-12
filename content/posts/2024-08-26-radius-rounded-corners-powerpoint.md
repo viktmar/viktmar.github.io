@@ -86,7 +86,7 @@ Sub SetAbsoluteRoundedCornerRadius()
 End Sub
 ```
 
-The ChatGPT version tried tO determine the minimum dimension of the rectangle, i.e., height or width.
+The ChatGPT version tried to determine the minimum dimension of the rectangle, i.e., height or width.
 However, as my text boxes are always wider than they are high, I decided to stick to the height only.
 
 To use it, open the VBA editor with Option+F11 (Alt+F11 on Windows) and run it.
