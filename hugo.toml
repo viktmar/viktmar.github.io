@@ -59,3 +59,9 @@ googleAnalytics = "G-8BP7CEZFYW"
   # xing = "username"
   # youtube = "user/username" # or channel/channelname
   # paypal = "username"
+
+[markup]
+  [markup.goldmark]
+    duplicateResourceFiles = false
+    [markup.goldmark.renderer]
+      unsafe = true

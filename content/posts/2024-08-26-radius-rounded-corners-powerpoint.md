@@ -21,6 +21,8 @@ However, there is no way to set an explicit radius for those shapes, only the ye
 This shouldn't be a problem, right?
 As long as the radius of all rectangles is the same.
 
+<img src="https://vg07.met.vgwort.de/na/3b8fcc8042b041ad9f24257456f49a56" width="1" height="1" alt="">
+
 # The problem
 
 The text boxes are differently sized across the poster.
