@@ -22,13 +22,13 @@ tags: []
 >}}
 
 {{< publication
-    title="Unit-aware genetic programming for the development of empirical equations"
+    title="Unit-Aware Genetic Programming for the Development of Empirical Equations"
     authors="J. Reuter, V. Martinek, R. Herzog, & S. Mostaghim"
-    journal="ArXiv Preprint"
+    journal="Springer Nature Switzerland - Parallel Problem Solving from Nature -- PPSN XVIII"
     year="2024"
-    doi="https://doi.org/10.48550/arXiv.2405.18896"
-    bib="/publications/unit_aware.bib"
-    abstract="When developing empirical equations, domain experts require these to be accurate and adhere to physical laws. Often, constants with unknown units need to be discovered alongside the equations. Traditional unit-aware genetic programming (GP) approaches cannot be used when unknown constants with undetermined units are included. This paper presents a method for dimensional analysis that propagates unknown units as ''jokers'' and returns the magnitude of unit violations. We propose three methods, namely evolutive culling, a repair mechanism, and a multi-objective approach, to integrate the dimensional analysis in the GP algorithm. Experiments on datasets with ground truth demonstrate comparable performance of evolutive culling and the multi-objective approach to a baseline without dimensional analysis. Extensive analysis of the results on datasets without ground truth reveals that the unit-aware algorithms make only low sacrifices in accuracy, while producing unit-adherent solutions. Overall, we presented a promising novel approach for developing unit-adherent empirical equations."
+    doi="https://doi.org/10.1007/978-3-031-70055-2_11"
+    bib="/publications/unit_aware_.bib"
+    abstract="When developing empirical equations, domain experts require these to be accurate and adhere to physical laws. Often, constants with unknown units need to be discovered alongside the equations. Traditional unit-aware genetic programming (GP) approaches cannot be used when unknown constants with undetermined units are included. This paper presents a method for dimensional analysis that propagates unknown units as 'jokers' and returns the magnitude of unit violations. We propose three methods, namely evolutive culling, a repair mechanism, and a multi-objective approach, to integrate the dimensional analysis in the GP algorithm. Experiments on datasets with ground truth demonstrate comparable performance of evolutive culling and the multi-objective approach to a baseline without dimensional analysis. Extensive analysis of the results on datasets without ground truth reveals that the unit-aware algorithms make only low sacrifices in accuracy, while producing unit-adherent solutions."
 >}}
 
 # 2023

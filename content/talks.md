@@ -21,7 +21,7 @@ tags: []
     event="European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases (ECML PKDD)"
     institution="Vilnius, Lithuania"
     date="September 2024"
-    talks="Poster: Shape Constraints in Symbolic Regression using Penalized Least Squares"
+    talks="Poster: Shape Constraints in Symbolic Regression Using Penalized Least Squares"
 >}}
 
 {{< talk

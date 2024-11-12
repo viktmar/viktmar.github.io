@@ -1,7 +1,9 @@
 
-- [ ] capitalization
+- [ ] vg wort
 - [ ] buy me a coffee?
 - [ ] update the arxiv publications, when published
+- [ ] buttons in publ too dark in light mode
+- [ ] property modeling with one l
 
 # blog posts
 
@@ -10,6 +12,8 @@
 - [ ] maglev
 - [ ] differential evolution
 - [ ] rounded corners powerpoint vba
+- [ ] visual block inner paragraph
+- [ ] diff evo with islands
 
 # optimizations
 
@@ -30,3 +34,4 @@
 - [x] 2024-08-14-17hadd "Abroad" section in cv? or only in "Talks"?
 - [x] 2024-08-14-17hupdate and add more detail in "Talks"
 - [x] 2024-08-14-17hteaching reinforcement learning
+- [x] 2024-08-20-09hcapitalization
