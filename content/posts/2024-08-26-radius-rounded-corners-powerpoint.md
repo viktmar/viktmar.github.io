@@ -4,8 +4,6 @@ subtitle: This was way harded than it should have been.
 date: 2024-11-12
 ---
 
-# The sitch
-
 I needed to make a poster for an upcoming conference.
 This was the first one I had to do myself from scratch.
 I chose to do this one in PowerPoint.
