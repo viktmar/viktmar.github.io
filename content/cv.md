@@ -27,7 +27,7 @@ tags: []
 ### Master thesis
 **Process Automation Solutions, Ludwigshafen**
 *05/2021 - 11/2021*
-- Developed a simulation environment for the virtual commissioning of an OPC UA gateway
+- developed a simulation environment for the virtual commissioning of an OPC UA gateway
 
 ### Bachelor thesis & working student
 **IAV GmbH, Stollberg**
