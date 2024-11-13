@@ -68,16 +68,21 @@ tags: []
 ## Teaching
 ---
 
+### Courses
+
 - seminar on Mathematical Machine Learning - Reinforcement Learning at Heidelberg University (summer semester 2024)
 - preparatory workshop week at the Computational Science Summer School at KMUTNB, Bangkok, Thailand (03/2024)
 - preparatory workshop week at the Computational Science Summer School at KMUTT, Bangkok, Thailand (03/2023)
 - Python introductory course at Heidelberg University (05/2022)
 
+### Supervised
+
+- Bachelor thesis on "Der PageRank-Algorithmus und dessen Verbesserungen" (2023)
+
 ## Abroad
 ---
 
-- 7 week research stay at University of Western Australia, Perth (08 ... 09/2023)
-
+- 7 week research stay at University of Western Australia, Perth (08 - 09/2023)
 
 ## Skills
 ---
