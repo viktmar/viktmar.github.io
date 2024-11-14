@@ -19,7 +19,7 @@ tags: []
 *03/2022 - present*
 - symbolic regression
 - evolutionary algorithms
-- thermodynamic property modelling
+- thermodynamic property modeling
 - optimal experimental design
 - reinforcement learning
 - developing Thermodynamics-informed Symbolic Regression ([TiSR GitHub](https://github.com/scoop-group/TiSR))

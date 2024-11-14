@@ -1,5 +1,4 @@
 
-- [ ] vg wort
 - [ ] buy me a coffee?
 - [ ] update the arxiv publications, when published
 - [ ] buttons in publ too dark in light mode
@@ -11,7 +10,6 @@
 - [ ] optimal heat transfer tubular heat exchanger
 - [ ] maglev
 - [ ] differential evolution
-- [ ] rounded corners powerpoint vba
 - [ ] visual block inner paragraph
 - [ ] diff evo with islands
 
@@ -35,3 +33,6 @@
 - [x] 2024-08-14-17hupdate and add more detail in "Talks"
 - [x] 2024-08-14-17hteaching reinforcement learning
 - [x] 2024-08-20-09hcapitalization
+- [x] 2024-11-14-15hupdate talks and pubs according to publist
+- [x] 2024-11-14-15hvg wort
+- [x] 2024-11-14-15hrounded corners powerpoint vba
