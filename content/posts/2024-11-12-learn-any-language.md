@@ -148,7 +148,6 @@ So I read (some of) the `README.md`, fixed the bugs, and viola.
 Below is the script which takes all parts, the words, the translations, and the audio, and creates and saves the Anki deck.
 
 ```python
-
 import random
 import os
 import genanki
