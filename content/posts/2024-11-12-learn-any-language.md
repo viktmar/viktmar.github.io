@@ -51,7 +51,7 @@ help
 
 The next step were the translations.
 For those, I settled on using the Python library `googletrans`, which queries Google Translate.
-The script loads the words from the mentioned list, and queries the Google Translate API to obtain the translations with some additional information.
+The script loads the words from the mentioned list, and queries the Google Translate API to obtain the translations.
 For some languages, e.g., Japanese and Thai, some additional information on pronunciation is provided.
 Although no audio, these are still useful for people, who know only the Latin alphabet.
 Thereafter, English words, translated words, and the additional information, if available, are gathered and saved to a file.

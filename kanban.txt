@@ -2,7 +2,6 @@
 - [ ] buy me a coffee?
 - [ ] update the arxiv publications, when published
 - [ ] buttons in publ too dark in light mode
-- [ ] property modeling with one l
 
 # blog posts
 
@@ -36,3 +35,4 @@
 - [x] 2024-11-14-15hupdate talks and pubs according to publist
 - [x] 2024-11-14-15hvg wort
 - [x] 2024-11-14-15hrounded corners powerpoint vba
+- [x] 2024-11-14-15hproperty modeling with one l
