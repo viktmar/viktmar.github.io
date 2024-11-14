@@ -140,9 +140,10 @@ But judging by 4 ... 5 words I manually (audioally?) compared, it's surprisingly
 
 Lastly, all needed was to put all together to create an Anki deck.
 The Python library `genanki` allows creating Anki decks programmatically.
-As the `README.md` was very long, I first tried to give my colleague ChatGPT a chance to make the draft of the script.
+As the `README.md` was very long, I first tried to give my colleague ChatGPT a chance to make a draft of the script.
 Unsurprisingly, it did not work right away.
 Unfortunately, and again, unsurprisingly, pointing out the bugs to ChatGPT brought in some new bugs without fixing the old ones.
+Still, it helped, as I did not need to look up all the package-specific syntax myself.
 So I read (some of) the `README.md`, fixed the bugs, and viola.
 Below is the script which takes all parts, the words, the translations, and the audio, and creates and saves the Anki deck.
 
@@ -236,10 +237,10 @@ So far, I’ve generated the decks for Japanese and Thai as well.
 Thus, I am already set up for future trips to Japan, Korea, and where ever else I may still go.
 
 One caveat, however, is that literal translations may not always be perfect, especially for single words without any context.
-I don't know whether the Google translation for "bad" in Vietnamese can be used for food, or whether this particular translation is only used in terms of "evil".
+To give an example, I don't know whether the Google translation for *bad* in Vietnamese can be used for food, or whether this particular translation is only used in terms of *evil*.
 But in most cases it seems fine.
 Also, after generating the translations, if one wants to invest a little more time, the inappropriate translations can be manually adapted.
-As long as the same syntax is used, the remaining script for pronunciation audio and Anki deck generation can still be used.
+As long as the same syntax is used, the remaining scripts for pronunciation audio and Anki deck generation can still be used.
 If you are interested to try, the list of words and the scripts are on [my github](https://github.com/viktmar/anki).
 
 I guess I will not learn the 270+ words of Vietnamese, which are currently on the list.
