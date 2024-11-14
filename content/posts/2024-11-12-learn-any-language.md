@@ -20,7 +20,7 @@ However, I did not find an appropriate shared deck for Vietnamese on Anki-web.
 So, instead of looking up a couple words and creating my own deck, I just did not study any of it.
 But after 1.5 weeks in Vietnam of not having embarrassed myself by wildly mispronouncing a word and gotten a friendly smile in return, I decided to change that.
 
-# To solution
+# The solution
 
 I started to compile a list of words in English, which I thought to be the most important words and phrases for a traveler.
 I also tried my best to sort them in a manner of decreasing urgency, such that learning only a couple of them is also very useful.
