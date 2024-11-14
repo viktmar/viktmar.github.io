@@ -1,5 +1,5 @@
 ---
-title: Learn any language
+title: Learn (a little of) any language
 subtitle: Generate Anki decks with pronunciation audio in any language.
 date: 2024-11-12
 ---
@@ -240,7 +240,7 @@ I don't know whether the Google translation for "bad" in Vietnamese can be used 
 But in most cases it seems fine.
 Also, after generating the translations, if one wants to invest a little more time, the inappropriate translations can be manually adapted.
 As long as the same syntax is used, the remaining script for pronunciation audio and Anki deck generation can still be used.
-If you are interested to try, the list of words and the scripts are on [my github]().
+If you are interested to try, the list of words and the scripts are on [my github](https://github.com/viktmar/anki).
 
 I guess I will not learn the 270+ words of Vietnamese, which are currently on the list.
 But I’ll try 20 ... 30 words.
